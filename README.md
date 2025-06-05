@@ -1,6 +1,7 @@
 <!Docktype html>
 <html>
 <head>
-<title> study
+<title>Study only
+</title>
 </head>
 
