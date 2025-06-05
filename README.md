@@ -1,7 +1,1 @@
-<!Docktype html>
-<html>
-<head>
-<title>Study only
-</title>
-</head>
-
+This code is only for my own activities and it is not recommended to use it because its security has not been tested.
